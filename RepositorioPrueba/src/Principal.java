@@ -5,6 +5,7 @@ public class Principal {
 		System.out.println("Hola Mundo java-git");
 		System.out.println("Primer cambio para validar!");
 		System.out.println("Segundo cambio para validar!");
+		System.out.println("Modificación al crear la nueva rama Cambio1");
 	}
 
 }
